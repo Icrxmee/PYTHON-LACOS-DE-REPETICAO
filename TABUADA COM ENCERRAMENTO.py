@@ -5,7 +5,8 @@ while True: #Começa o While infinito.
         break
 
     for i in range(1, 11): #O For vai de 1 a 10
-      print (f"{n} x {i} = {n*i}") #Múltiplica o número escolhido, pelo index de cada volta do laço.
+      print (f"{n} x {i} = {n*i}") #Multiplica o número escolhido, pelo index de cada volta do laço.
 
 print("TABUADA ENCERRADA")
+
 
